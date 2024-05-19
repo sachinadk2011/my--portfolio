@@ -1,0 +1,9 @@
+.personal{
+  border: 1px solid #000000;
+  width: 30px;
+  height: 24px;
+  position: absolute;
+  border-radius: 100%;
+  top: 2px;
+  left: 15px;
+}
